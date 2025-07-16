@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.api\\todoapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|solutionrelative:todoapp.api\\todoapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|solutionrelative:todoapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BB6D17-C9FD-4831-BD3C-A5E8F2F27308}|TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.domain\\todoapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C4BB6D17-C9FD-4831-BD3C-A5E8F2F27308}|TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:todoapp.domain\\todoapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205B8A84-E68A-42E8-AC40-24A39B1E8003}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.infrastructure\\todoapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{205B8A84-E68A-42E8-AC40-24A39B1E8003}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:todoapp.infrastructure\\todoapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205B8A84-E68A-42E8-AC40-24A39B1E8003}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.infrastructure\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205B8A84-E68A-42E8-AC40-24A39B1E8003}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:todoapp.infrastructure\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205B8A84-E68A-42E8-AC40-24A39B1E8003}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.infrastructure\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205B8A84-E68A-42E8-AC40-24A39B1E8003}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:todoapp.infrastructure\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BB6D17-C9FD-4831-BD3C-A5E8F2F27308}|TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.domain\\repositories\\itodorepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BB6D17-C9FD-4831-BD3C-A5E8F2F27308}|TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:todoapp.domain\\repositories\\itodorepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BB6D17-C9FD-4831-BD3C-A5E8F2F27308}|TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.domain\\exceptions\\todoitemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BB6D17-C9FD-4831-BD3C-A5E8F2F27308}|TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:todoapp.domain\\exceptions\\todoitemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BB6D17-C9FD-4831-BD3C-A5E8F2F27308}|TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.domain\\exceptions\\tododomainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BB6D17-C9FD-4831-BD3C-A5E8F2F27308}|TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:todoapp.domain\\exceptions\\tododomainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4BB6D17-C9FD-4831-BD3C-A5E8F2F27308}|TodoApp.Domain\\TodoApp.Domain.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.domain\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4BB6D17-C9FD-4831-BD3C-A5E8F2F27308}|TodoApp.Domain\\TodoApp.Domain.csproj|solutionrelative:todoapp.domain\\entities\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54319EC9-4BAF-479E-A714-69511883104D}|TodoApp.Core\\TodoApp.Core.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.core\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54319EC9-4BAF-479E-A714-69511883104D}|TodoApp.Core\\TodoApp.Core.csproj|solutionrelative:todoapp.core\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54319EC9-4BAF-479E-A714-69511883104D}|TodoApp.Core\\TodoApp.Core.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.core\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54319EC9-4BAF-479E-A714-69511883104D}|TodoApp.Core\\TodoApp.Core.csproj|solutionrelative:todoapp.core\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.api\\mappings\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|solutionrelative:todoapp.api\\mappings\\todoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.api\\dtos\\responses\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|solutionrelative:todoapp.api\\dtos\\responses\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.api\\dtos\\requests\\updatetodoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|solutionrelative:todoapp.api\\dtos\\requests\\updatetodoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.api\\dtos\\requests\\createtodoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|solutionrelative:todoapp.api\\dtos\\requests\\createtodoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|solutionrelative:todoapp.api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205B8A84-E68A-42E8-AC40-24A39B1E8003}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.infrastructure\\migrations\\20250713125151_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205B8A84-E68A-42E8-AC40-24A39B1E8003}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:todoapp.infrastructure\\migrations\\20250713125151_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205B8A84-E68A-42E8-AC40-24A39B1E8003}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.infrastructure\\migrations\\tododbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205B8A84-E68A-42E8-AC40-24A39B1E8003}|TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj|solutionrelative:todoapp.infrastructure\\migrations\\tododbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B8F127A-DE78-45FD-A29A-C652E45FD9B9}|TodoApp.API\\TodoApp.API.csproj|solutionrelative:todoapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD2CA73-54F5-4615-BACA-6F25C114F65D}|TodoApp.Core.Tests\\TodoApp.Core.Tests.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.core.tests\\todoapp.core.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFD2CA73-54F5-4615-BACA-6F25C114F65D}|TodoApp.Core.Tests\\TodoApp.Core.Tests.csproj|solutionrelative:todoapp.core.tests\\todoapp.core.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD2CA73-54F5-4615-BACA-6F25C114F65D}|TodoApp.Core.Tests\\TodoApp.Core.Tests.csproj|c:\\users\\paul zanfirovich\\documents\\github\\todolist-fullstack\\todoappbackend\\todoapp.core.tests\\services\\todoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD2CA73-54F5-4615-BACA-6F25C114F65D}|TodoApp.Core.Tests\\TodoApp.Core.Tests.csproj|solutionrelative:todoapp.core.tests\\services\\todoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Infrastructure\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "TodoApp.Infrastructure\\Repositories\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Infrastructure\\Repositories\\TodoRepository.cs",
+              "RelativeToolTip": "TodoApp.Infrastructure\\Repositories\\TodoRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:38:08.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoApp.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\TodoApp.API.csproj",
+              "RelativeDocumentMoniker": "TodoApp.API\\TodoApp.API.csproj",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\TodoApp.API.csproj",
+              "RelativeToolTip": "TodoApp.API\\TodoApp.API.csproj",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T15:18:03.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoApp.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj",
+              "RelativeToolTip": "TodoApp.Infrastructure\\TodoApp.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-12T15:22:57.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoApp.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Domain\\TodoApp.Domain.csproj",
+              "RelativeDocumentMoniker": "TodoApp.Domain\\TodoApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Domain\\TodoApp.Domain.csproj",
+              "RelativeToolTip": "TodoApp.Domain\\TodoApp.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T15:16:58.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\Program.cs",
+              "RelativeToolTip": "TodoApp.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:50:14.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Infrastructure\\Data\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "TodoApp.Infrastructure\\Data\\TodoDbContext.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Infrastructure\\Data\\TodoDbContext.cs",
+              "RelativeToolTip": "TodoApp.Infrastructure\\Data\\TodoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:34:45.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITodoRepositorycs.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Domain\\Repositories\\ITodoRepositorycs.cs",
+              "RelativeDocumentMoniker": "TodoApp.Domain\\Repositories\\ITodoRepositorycs.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Domain\\Repositories\\ITodoRepositorycs.cs",
+              "RelativeToolTip": "TodoApp.Domain\\Repositories\\ITodoRepositorycs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:46:53.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoDomainException.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Domain\\Exceptions\\TodoDomainException.cs",
+              "RelativeDocumentMoniker": "TodoApp.Domain\\Exceptions\\TodoDomainException.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Domain\\Exceptions\\TodoDomainException.cs",
+              "RelativeToolTip": "TodoApp.Domain\\Exceptions\\TodoDomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:00:23.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoItemNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Domain\\Exceptions\\TodoItemNotFoundException.cs",
+              "RelativeDocumentMoniker": "TodoApp.Domain\\Exceptions\\TodoItemNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Domain\\Exceptions\\TodoItemNotFoundException.cs",
+              "RelativeToolTip": "TodoApp.Domain\\Exceptions\\TodoItemNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T12:00:39.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Domain\\Entities\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoApp.Domain\\Entities\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Domain\\Entities\\TodoItem.cs",
+              "RelativeToolTip": "TodoApp.Domain\\Entities\\TodoItem.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:59:57.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Core\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "TodoApp.Core\\Services\\TodoService.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Core\\Services\\TodoService.cs",
+              "RelativeToolTip": "TodoApp.Core\\Services\\TodoService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:59:20.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Core\\Services\\ITodoService.cs",
+              "RelativeDocumentMoniker": "TodoApp.Core\\Services\\ITodoService.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Core\\Services\\ITodoService.cs",
+              "RelativeToolTip": "TodoApp.Core\\Services\\ITodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:59:04.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoApp.API\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoApp.API\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:23:34.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateTodoItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\DTOs\\Requests\\CreateTodoItemDto.cs",
+              "RelativeDocumentMoniker": "TodoApp.API\\DTOs\\Requests\\CreateTodoItemDto.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\DTOs\\Requests\\CreateTodoItemDto.cs",
+              "RelativeToolTip": "TodoApp.API\\DTOs\\Requests\\CreateTodoItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:31:47.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateTodoItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\DTOs\\Requests\\UpdateTodoItemDto.cs",
+              "RelativeDocumentMoniker": "TodoApp.API\\DTOs\\Requests\\UpdateTodoItemDto.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\DTOs\\Requests\\UpdateTodoItemDto.cs",
+              "RelativeToolTip": "TodoApp.API\\DTOs\\Requests\\UpdateTodoItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:32:31.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TodoItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\DTOs\\Responses\\TodoItemDto.cs",
+              "RelativeDocumentMoniker": "TodoApp.API\\DTOs\\Responses\\TodoItemDto.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\DTOs\\Responses\\TodoItemDto.cs",
+              "RelativeToolTip": "TodoApp.API\\DTOs\\Responses\\TodoItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:33:11.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TodoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\Mappings\\TodoProfile.cs",
+              "RelativeDocumentMoniker": "TodoApp.API\\Mappings\\TodoProfile.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\Mappings\\TodoProfile.cs",
+              "RelativeToolTip": "TodoApp.API\\Mappings\\TodoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:35:48.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250713125151_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Infrastructure\\Migrations\\20250713125151_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TodoApp.Infrastructure\\Migrations\\20250713125151_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Infrastructure\\Migrations\\20250713125151_InitialCreate.cs",
+              "RelativeToolTip": "TodoApp.Infrastructure\\Migrations\\20250713125151_InitialCreate.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:33:59.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TodoDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Infrastructure\\Migrations\\TodoDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TodoApp.Infrastructure\\Migrations\\TodoDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Infrastructure\\Migrations\\TodoDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TodoApp.Infrastructure\\Migrations\\TodoDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:34:05.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.API\\appsettings.json",
+              "RelativeToolTip": "TodoApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T12:37:35.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TodoApp.Core.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Core.Tests\\TodoApp.Core.Tests.csproj",
+              "RelativeDocumentMoniker": "TodoApp.Core.Tests\\TodoApp.Core.Tests.csproj",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Core.Tests\\TodoApp.Core.Tests.csproj",
+              "RelativeToolTip": "TodoApp.Core.Tests\\TodoApp.Core.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-12T14:53:17.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TodoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Core.Tests\\Services\\TodoServiceTests.cs",
+              "RelativeDocumentMoniker": "TodoApp.Core.Tests\\Services\\TodoServiceTests.cs",
+              "ToolTip": "C:\\Users\\Paul Zanfirovich\\Documents\\GitHub\\todolist-fullstack\\TodoAppBackend\\TodoApp.Core.Tests\\Services\\TodoServiceTests.cs",
+              "RelativeToolTip": "TodoApp.Core.Tests\\Services\\TodoServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:55:58.931Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
