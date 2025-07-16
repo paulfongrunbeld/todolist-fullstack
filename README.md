@@ -10,7 +10,10 @@
 - SQLite
 - Swagger/OpenAPI
 - AutoMapper
-- Clean Architecture
+- Onion Architecture
+- CQRS Pattern
+- Repository Pattern
+- Fluent Validation
 
 ### Frontend (Vue 3)
 - Composition API
@@ -18,3 +21,7 @@
 - Axios (HTTP client)
 - Tailwind CSS
 - Vue Router
+
+## 🧅 Архитектура бэкенда (Onion Architecture)
+
+Проект реализован по принципам луковой архитектуры с четким разделением слоев:
