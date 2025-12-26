@@ -11,9 +11,7 @@
 - Swagger/OpenAPI
 - AutoMapper
 - Onion Architecture
-- CQRS Pattern
 - Repository Pattern
-- Fluent Validation
 
 ### Frontend (Vue 3)
 - Composition API
